@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "PaginatedReport",
+    "displayName": "Member Banking Table Audit - Cayman"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "a4ecff23-5f6d-b878-4478-5b1d3f10e81d"
+  }
+}

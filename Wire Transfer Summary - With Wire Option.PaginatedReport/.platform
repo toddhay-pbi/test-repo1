@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "PaginatedReport",
+    "displayName": "Wire Transfer Summary - With Wire Option"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "4d8310d0-e7e0-9428-4361-6ae6880b7aa1"
+  }
+}
